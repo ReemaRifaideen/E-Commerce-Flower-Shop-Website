@@ -13,7 +13,6 @@ https://florashopy.netlify.app/
 
 - HTML5
 - CSS3
--JS
 
 ## ✨ Features
 
