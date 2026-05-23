@@ -1,4 +1,4 @@
-# 🌸 Flora Shop
+# 🌸 Flora Shopy
 
 ## 📖 About the Project
 Flora Shopy is a simple and responsive flower shop website created using HTML , CSS and JS. The project showcases an elegant floral-themed design where users can browse flower collections, explore products, read customer reviews, and interact through a contact section.
